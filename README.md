@@ -1,3 +1,3 @@
 # qb-PhoneStoreRobbery
-phone robbery fore qbcore
+phone robbery qbcore
 
