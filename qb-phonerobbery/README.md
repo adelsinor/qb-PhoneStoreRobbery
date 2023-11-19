@@ -46,7 +46,7 @@ exports('PhoneStoreRobbery', PhoneStoreRobbery)
 
 # items 
 
-- items all ready are in qbcore , if you want to add or remove its on you.
+- items already are in qbcore , if you want to add or remove its on you.
 
 # Dependencies:
 qb-core: https://github.com/QBCore-framework/qb-core
